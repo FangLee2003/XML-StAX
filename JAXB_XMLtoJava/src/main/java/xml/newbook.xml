@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<store>
+    <book category="eco">
+        <title>Economic book</title>
+        <authors>
+            <author>
+                <name>Hoa</name>
+                <country>Vietnam</country>
+            </author>
+        </authors>
+        <year>2021</year>
+        <price>20.00</price>
+    </book>
+</store>

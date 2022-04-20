@@ -1,0 +1,10 @@
+com\mycompany\jaxb_xmltojava\Main.class
+com\mycompany\jaxb_xmltojava\Validate.class
+model\Price.class
+com\mycompany\jaxb_xmltojava\Write.class
+com\mycompany\jaxb_xmltojava\WriteXML.class
+com\mycompany\jaxb_xmltojava\Read.class
+model\Item.class
+com\mycompany\jaxb_xmltojava\ReadXML.class
+com\mycompany\jaxb_xmltojava\UpdateXML.class
+model\Order.class

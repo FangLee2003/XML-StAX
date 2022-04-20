@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<order number="1093204">
+    <order_date>23/02/2018</order_date>
+    <customer>Nguyễn Lan Anh</customer>
+    <email>anhnl@gmail.com</email>
+    <phone>0984345434</phone>
+    <address>23 ngõ 21 Trần Quốc Hoàn - Cầu Giấy - Hà Nội</address>
+    <item>
+        <name>Bưởi Diễn</name>
+        <quantity>20</quantity>
+        <price currency="VND">30000</price>
+    </item>
+    <item>
+        <name>Cam Đường Canh</name>
+        <quantity>50</quantity>
+        <price currency="VND">5000</price>
+    </item>
+</order>

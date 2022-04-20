@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order number="1">
+        <order_date>02/04/2021</order_date>
+        <customer>Fang Lee</customer>
+        <email>fanglee@vku.vn</email>
+        <phone>0999544333</phone>
+        <address>Singapore</address>
+        <item>
+            <name>Macbook</name>
+            <quantity>2</quantity>
+            <price currency="USD">500</price>
+        </item>
+    </order>
+    <order number="2">
+        <order_date>01/01/2022</order_date>
+        <customer>Phan Hung</customer>
+        <email>phanhung18082003@gmail.com</email>
+        <phone>0123456789</phone>
+        <address>Viet Nam</address>
+        <item>
+            <name>Iphone 1</name>
+            <quantity>3</quantity>
+            <price currency="VND">10000000</price>
+        </item>
+    </order>
+</orders>

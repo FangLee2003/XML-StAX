@@ -21,7 +21,7 @@ public class Orders
   private List<Order> orders = new ArrayList<Order>();
   @XmlElement(name = "order")
 
-  public List<Order > getOrders() {
+  public List<Order> getOrders() {
     return orders;
   }
  
